@@ -1,0 +1,3 @@
+icustayid,Weight_kg,GCS,HR,SysBP,MeanBP,DiaBP,outcome
+1,70,15,80,120,80,70,0
+2,80,14,90,130,90,80,1
